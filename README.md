@@ -188,6 +188,4 @@ Shakthi S
 
 ---
 
-## Submission
 
-This project was built as part of the AnythingAI Frontend Internship Task submission.
